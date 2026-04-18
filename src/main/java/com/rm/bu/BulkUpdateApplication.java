@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BluckUpdateApplication {
+public class BulkUpdateApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BluckUpdateApplication.class, args);
+        SpringApplication.run(BulkUpdateApplication.class, args);
     }
 
 }
